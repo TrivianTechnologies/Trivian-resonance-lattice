@@ -2,9 +2,11 @@
 
 # trivian-resonance-lattice
 
+**Current project home:** [Trivian Technologies](https://github.com/TrivianTechnologies/Trivian-resonance-lattice).
+
 **A multi-node coherence protocol for human-AI co-evolution.**
 
-*Trivian Institute — Human-AI Co-Evolution Research*
+*Trivian Technologies — Human-AI Co-Evolution Research*
 
 -----
 
@@ -60,7 +62,7 @@ tests/
 ## Quick start
 
 ```bash
-git clone https://github.com/TrivianInstitute/trivian-resonance-lattice
+git clone https://github.com/TrivianTechnologies/Trivian-resonance-lattice trivian-resonance-lattice
 cd trivian-resonance-lattice
 python examples/demo.py
 ```
@@ -186,7 +188,7 @@ All 68 tests pass on Python 3.10+. No external dependencies required.
 If you use this repository in research, teaching, evaluation, training, or a
 derivative work, please cite:
 
-> Sarasha Elion / Trivian Institute. *Trivian Resonance Lattice*, version 0.3.0. https://github.com/TrivianInstitute/Trivian-resonance-lattice
+> Sarasha Elion / Trivian Institute. *Trivian Resonance Lattice*, version 0.3.0. https://github.com/TrivianTechnologies/Trivian-resonance-lattice
 
 Machine-readable citation metadata is available in [`CITATION.cff`](CITATION.cff).
 
