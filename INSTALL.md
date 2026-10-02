@@ -10,7 +10,7 @@
 Clone and run the interactive demo:
 
 ```bash
-git clone https://github.com/TrivianInstitute/trivian-resonance-lattice
+git clone https://github.com/TrivianTechnologies/Trivian-resonance-lattice trivian-resonance-lattice
 cd trivian-resonance-lattice
 python examples/demo.py
 ```
@@ -61,6 +61,6 @@ See `ARCHITECTURE.md` for the full technical and philosophical design document.
 
 ## Contact
 
-Institute: [connect@trivianinstitute.org](mailto:connect@trivianinstitute.org)
-Research: trivianinstitute.org
+Technical/ecosystem: [node@triviantech.com](mailto:node@triviantech.com)
+Research lineage: trivianinstitute.org
 Field site: trivianfield.com
